@@ -1,0 +1,24 @@
+[submodule "erc20-token-allowance"]
+	path = erc20-token-allowance
+	url = https://github.com/Richa-iitr/ERC-20-Token-Allowance.git
+[submodule "compound-dsa-managers"]
+	path = compound-dsa-managers
+	url = https://github.com/Richa-iitr/compound-dsa-managers.git
+[submodule "aave-automation-subgraphs"]
+	path = aave-automation-subgraphs
+	url = https://github.com/Richa-iitr/aave-automation-subgraph
+[submodule "chainlink-eth-usd"]
+	path = chainlink-eth-usd
+	url = https://github.com/Richa-iitr/Chainlink-ETH-USD.git
+[submodule "uniswap-v3-usdc-eth-tick-data"]
+	path = uniswap-v3-usdc-eth-tick-data
+	url = https://github.com/Richa-iitr/UniswapV3-USDC-ETH-Subgraph
+[submodule "swap-aggregator"]
+	path = swap-aggregator
+	url = https://github.com/Richa-iitr/Swap-Aggregator-Subgraph
+[submodule "paraswap"]
+	path = paraswap
+	url = https://github.com/thrilok209/Paraswap-subgraph.git
+[submodule "dsa-v2-subgraph"]
+	path = dsa-v2-subgraph
+	url = https://github.com/Instadapp/DSA-v2-subgraph.git
